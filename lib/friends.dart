@@ -5,9 +5,6 @@ class Friends extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       home: Scaffold(
-        appBar: AppBar(
-          title: Text('Friends'),
-        ),
         body: Center(
           child: Text(
             'friends',
