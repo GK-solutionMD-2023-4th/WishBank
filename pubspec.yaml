@@ -57,7 +57,17 @@ flutter:
     - assets/NavBar_images/home_icon.svg
     - assets/NavBar_images/friends_icon.svg
     - assets/NavBar_images/setting_icon.svg 
+    - assets/images/whisbank.png
+  fonts:
+    - family: Pretendard
+      fonts:
+        - asset: assets/font/pretendard/Pretendard-Black.otf
+          weight: 100
 
+    - family: chab
+      fonts:
+        - asset: assets/font/chab/chab.otf
+          weight: 100
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
   # the material Icons class.
