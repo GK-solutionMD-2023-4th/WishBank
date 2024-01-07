@@ -57,7 +57,9 @@ flutter:
     - assets/NavBar_images/home_icon.svg
     - assets/NavBar_images/friends_icon.svg
     - assets/NavBar_images/setting_icon.svg 
-    - assets/images/whisbank.png
+    - assets/imagse/whisbank.png
+    - assets/Main_Assets_Image/WaterBottle.svg
+    - assets/Main_Icons/Coin_Icon.svg
   fonts:
     - family: Pretendard
       fonts:
